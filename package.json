@@ -1,0 +1,25 @@
+{
+  "name": "welcome-to-node",
+  "version": "0.0.1",
+  "description": "getting started guide for all things node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hackygolucky/welcome-to-node"
+  },
+  "keywords": [
+    "guide",
+    "getting-started",
+    "intro",
+    "community"
+  ],
+  "author": "Tracy Abrahms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackygolucky/welcome-to-node/issues"
+  },
+  "homepage": "https://github.com/hackygolucky/welcome-to-node"
+}
